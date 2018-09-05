@@ -1,5 +1,5 @@
 <template>
-  <v-app class="app-root" :dark="$store.getters.dark">
+  <v-app class="app-root">
     <main-menu/>
     <toolbar title="Half-Stack"/>
     <stage/>
